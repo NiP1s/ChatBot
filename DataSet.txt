@@ -1,0 +1,257 @@
+Pergunta: Qual o numero de vagas oferecidas?
+
+Resposta: ​The number of vacancies offered is not specified in the given context.
+
+Resposta-ChatBot-colab: Para o ano de 2024, são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp.
+
+Resposta-esperada: O numero de vagas oferecidas são 3340.
+
+Pergunta: Qual o numero de vagas oferecidas para a graduação em 2024?
+
+Resposta: ​​Não sei qual é o número de vagas oferecidas para a graduação em 2024 no Vestibular Unicamp.
+
+Resposta-ChatBot-colab: Para o ano de 2024, são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp.
+
+Resposta-esperada: O numero de vagas oferecidas são 3340.
+
+Pergunta: Numero de vagas regulares oferecidas para Cursos de Graduação da Unicamp
+
+Resposta: ​Para o ano de 2024, são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp.
+
+Resposta-ChatBot-Colab: Para o ano de 2024, são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp.
+
+Resposta-esperada: O numero de vagas oferecidas são 3340.
+
+Pergunta: ​Qual o numero total de vagas regulares oferecidas ?
+
+Resposta: ​O número total de vagas regulares oferecidas é 3340.
+
+Resposta-ChatBot-Colab: O número total de vagas regulares oferecidas é de 3340..
+
+Resposta-esperada: O numero de vagas oferecidas são 3340.
+-----------------------------------------------------
+
+Pergunta: Qual o objetivo do vestibular?
+
+Resposta: ​O objetivo do Vestibular Unicamp é avaliar a capacidade analítica e de abstração dos candidatos, bem como a capacidade de utilizar o conhecimento de forma integrada para a solução de problemas em diversos níveis. Além disso, o vestibular busca avaliar o domínio de conteúdos e conceitos tratados no ensino médio, por meio de questões que partem de fontes variadas e são produzidas em âmbitos sociais diversificados. O objetivo é que os candidatos mobilizem habilidades gerais, desde as mais simples até as mais complexas, distribuídas de forma equilibrada entre as questões da prova.
+
+Resposta-ChatBot-colab: O objetivo do Vestibular Unicamp é avaliar a capacidade analítica e de abstração dos candidatos, bem como sua capacidade de utilizar o conhecimento de forma integrada para a solução de problemas em diversos níveis. Além disso, o vestibular visa avaliar o domínio de conteúdos e conceitos tratados no ensino médio, bem como a aptidão e o potencial dos candidatos para o curso superior em que pretendem ingressar. Também busca interagir com os sistemas de Ensino Fundamental e Médio e contribuir para o aprimoramento da educação básica.
+
+Resposta-esperada: resposta dada no capitulo II
+
+Pergunta: Quais são os objetivo do vestibular?
+
+Resposta: ​O objetivo do Vestibular Unicamp é avaliar a capacidade analítica e de abstração dos candidatos, bem como a capacidade de utilizar o conhecimento de forma integrada para a solução de problemas em diversos níveis. Além disso, o vestibular busca avaliar o domínio de conteúdos e conceitos tratados no ensino médio, por meio de questões que partem de fontes variadas e são produzidas em âmbitos sociais diversificados. O objetivo é que os candidatos mobilizem habilidades gerais, desde as mais simples até as mais complexas, distribuídas de forma equilibrada entre as questões da prova.
+
+Resposta-ChatBot-colab: Os objetivos do Vestibular Unicamp são avaliar a capacidade analítica e de abstração dos candidatos, avaliar o domínio de conteúdos e conceitos tratados no ensino médio, avaliar a aptidão e o potencial dos candidatos para o curso superior em que pretendem ingressar, interagir com os sistemas de Ensino Fundamental e Médio e contribuir para o aprimoramento da educação básica.
+
+Resposta-esperada: resposta dada no capitulo II
+-----------------------------------------------------
+Pergunta: Como será feito o ingresso para os cursos de graduação?
+
+Resposta: ​O ingresso nos cursos de graduação será feito mediante processo classificatório, com aproveitamento dos candidatos até o limite das vagas fixadas para cada curso, obedecendo às normas da presente Resolução e informadas no Anexo I.
+
+Resposta-ChatBot-colab: O ingresso nos cursos de graduação será feito mediante um processo classificatório, com aproveitamento dos candidatos até o limite das vagas fixadas para cada curso. Os candidatos serão classificados em ordem decrescente. Além disso, é facultada aos inscritos a bonificação prevista no Programa de Ação Afirmação e Inclusão Social (PAAIS) e reserva de vagas (cotas), quando aplicável.
+
+Resposta-esperada: O ingresso nos Cursos de Graduação por meio do VU 2024 será feito mediante processo classificatório. (Maneira rezumida, mas seria o que está no Art. 6º do capitulo III).
+-----------------------------------------------------
+
+Pergunta: Qual o prazo para o pagamento do boleto bancário?
+
+Resposta: O prazo para o pagamento do boleto bancário é até o dia 08 de setembro de 2023.
+
+Resposta-ChatBot-colab: O prazo para o pagamento do boleto bancário é até o dia 08 de setembro de 2023.
+
+Resposta-esperada: O prazo para o pagamento do boleto bancário será até o dia 08 de setembro de 2023.
+
+Pergunta: Até quando posso pagar o boleto bancário?
+
+Resposta: ​O boleto bancário deve ser pago até a data de vencimento indicada no documento.
+
+Resposta-ChatBot-colab: O prazo para o pagamento do boleto bancário é até o dia 08 de setembro de 2023.
+
+Resposta-esperada: O prazo para o pagamento do boleto bancário será até o dia 08 de setembro de 2023.
+-----------------------------------------------------
+
+Pergunta: Qual o valor da taxa de inscrição?
+
+Resposta: ​The provided context does not mention the specific value of the registration fee for the Unicamp entrance exam.
+
+Resposta-ChatBot-colab: O valor da taxa de inscrição para o VU 2024 é de R$ 192,00 (cento e noventa e dois reais).
+
+Resposta-esperada: A Taxa de Inscrição para o VU 2024 será de R$ 192,00 (cento e noventa e dois reais).
+
+Pergunta: Qual o valor da taxa de inscrição para o VU 2024?
+
+Resposta: O valor da taxa de inscrição para o VU 2024 é de R$ 192,00 (cento e noventa e dois reais).
+
+Resposta-ChatBot-colab: O valor da taxa de inscrição para o VU 2024 é de R$ 192,00 (cento e noventa e dois reais).
+
+Resposta-esperada: A Taxa de Inscrição para o VU 2024 será de R$ 192,00 (cento e noventa e dois reais).
+-----------------------------------------------------
+
+Pergunta: Quando será a primeira fase?
+
+Resposta: ​Não há informações fornecidas no contexto sobre a data da primeira fase do exame de entrada da Unicamp.
+
+Resposta-ChatBot-colab: A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-esperada: A 1ª fase do VU 2024 será realizada no dia 29 de outubro de 2023
+
+Pergunta: Quando será realizada a primeira fase?/Quando será a primeira fase do VU?
+
+Resposta: ​A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-ChatBot-colab: A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-esperada: A 1ª fase do VU 2024 será realizada no dia 29 de outubro de 2023
+
+Pergunta: Qual a data da primeira fase?
+
+Resposta: ​​Não sei a resposta.
+
+Resposta-ChatBot-colab: A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-esperada: A 1ª fase do VU 2024 será realizada no dia 29 de outubro de 2023
+
+Pergunta: Qual a data da primeira fase do VU?
+
+Resposta:  A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-ChatBot-colab: A primeira fase do VU 2024 será realizada no dia 29 de outubro de 2023.
+
+Resposta-esperada: A 1ª fase do VU 2024 será realizada no dia 29 de outubro de 2023
+
+Pergunta: Qual a data da segunda fase do VU?/Quando será a segunda fase  do VU?
+
+Resposta: ​A segunda fase do VU 2024 será realizada nos dias 03 e 04 de dezembro de 2023.
+
+Resposta-ChatBot-colab: A segunda fase do VU 2024 será realizada nos dias 03 e 04 de dezembro de 2023.
+
+Resposta-esperada: A 2ª fase do VU 2024 será realizada nos dias 03 e 04 de dezembro de 2023.
+
+Pergunta: Qual a data da segunda fase ?
+
+Resposta: A data da segunda fase não foi mencionada no contexto fornecido.
+
+Resposta-ChatBot-colab: A data da segunda fase não é mencionada no contexto fornecido.
+
+Resposta-esperada: A 2ª fase do VU 2024 será realizada nos dias 03 e 04 de dezembro de 2023.
+-----------------------------------------------------
+
+Pergunta: Como a primeira fase será avaliada?
+
+Resposta: ​A primeira fase do exame da Unicamp será avaliada por meio de 72 questões objetivas, distribuídas nas disciplinas de Matemática, Língua Portuguesa e Literaturas de Língua Portuguesa, Inglês, Ciências da Natureza (Biologia, Química e Física) e Ciências Humanas (História, Geografia, Filosofia e Sociologia). Cada questão terá um valor específico e a pontuação total será utilizada para classificar os candidatos para a segunda fase do exame.
+
+Resposta-ChatBot-colab: A primeira fase será avaliada por meio de uma prova composta por 72 questões objetivas, distribuídas nas disciplinas de Matemática, Língua Portuguesa e Literaturas de Língua Portuguesa, Inglês, Ciências da Natureza (Biologia, Química e Física) e Ciências Humanas (História, Geografia, Filosofia e Sociologia). Cada questão terá um valor específico de pontuação.
+
+Resposta-esperada: A prova de primeira fase é composta por 72 questões objetivas que avaliam, de maneira preliminar, as disciplinas distribuídas da seguinte forma:  
+
+• 12 (doze) questões de Matemática; 
+• 12 (doze) questões de Língua Portuguesa e Literaturas de Língua Portuguesa; 
+• 7 (sete) questões de Inglês, 21 (vinte uma) questões de Ciências da Natureza (Biologia, Química e Física); 
+• 20 (vinte) questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia). 
+
+Pergunta: Como a primeira fase será avaliada?
+
+Resposta: ​A prova de primeira fase do Unicamp entrance exam é composta por 72 questões objetivas, distribuídas da seguinte forma:
+12 questões de Matemática
+12 questões de Língua Portuguesa e Literaturas de Língua Portuguesa
+7 questões de Inglês
+21 questões de Ciências da Natureza (Biologia, Química e Física)
+20 questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia)
+
+Resposta-ChatBot-colab: The number of questions per discipline varies depending on the area of study. Here is the breakdown:
+
+- Mathematics: 6 questions for courses in the areas of Exact Sciences/Technology, 4 questions for courses in the areas of Biological Sciences/Health, and 4 questions for courses in the areas of Humanities/Arts.
+- Interdisciplinary Exam: 2 interdisciplinary questions in the field of Humanities.
+- Biology: 8 questions for candidates in the area of Biological Sciences/Health.
+- Chemistry: 6 questions for candidates in the areas of Biological Sciences/Health and Exact Sciences/Technology.
+- Physics: 6 questions for candidates in the area of Exact Sciences/Technology.
+- Portuguese Language and Portuguese Literature: 6 questions.
+- Interdisciplinary Exam in English: 2 interdisciplinary questions in the fields of Humanities and Natural Sciences.
+- Interdisciplinary Exam in Natural Sciences: 2 questions for all candidates.
+- Interdisciplinary Exam in Humanities: 2 questions for all candidates.
+
+Resposta-esperada: A prova de primeira fase é composta por 72 questões objetivas que avaliam, de maneira preliminar, as disciplinas distribuídas da seguinte forma:  
+
+• 12 (doze) questões de Matemática; 
+• 12 (doze) questões de Língua Portuguesa e Literaturas de Língua Portuguesa; 
+• 7 (sete) questões de Inglês, 21 (vinte uma) questões de Ciências da Natureza (Biologia, Química e Física); 
+• 20 (vinte) questões de Ciências Humanas (História, Geografia, Filosofia e Sociologia). 
+-----------------------------------------------------
+
+Pergunta: Como a prova de redação será avaliada?
+
+Resposta: ​A prova de redação será composta por duas propostas de textos, e o candidato deverá escolher e executar apenas uma delas. A avaliação da redação será feita de acordo com critérios específicos estabelecidos pela banca examinadora.
+
+Resposta-ChatBot-colab: A prova de Redação será avaliada levando em consideração a habilidade de leitura e escrita dos candidatos na produção de textos pertencentes a diferentes gêneros discursivos. Cada proposta de redação é acompanhada de tarefas a serem cumpridas pelos candidatos e de um ou mais textos para leitura. A avaliação também leva em conta a capacidade do candidato em identificar, analisar e empregar recursos de expressão linguística, além do conhecimento dos elementos representativos das literaturas em língua portuguesa.
+
+Resposta-esperada: A prova de Redação busca avaliar habilidades de leitura e escrita dos candidatos na produção de textos pertencentes a diferentes gêneros discursivos.
+
+Pergunta: Quais os criterios para a anulação de uma redação?
+
+Resposta: Uma redação pode ser anulada nas seguintes situações: 1. Se o candidato abordar outro tema que não o da proposta escolhida; 2. Se o candidato não cumprir as tarefas solicitadas na proposta nem cumprir o gênero discursivo solicitado nela; 3. Se o candidato simplesmente reproduzir os textos da prova (ou partes dos mesmos) em forma de colagem, sejam do enunciado, sejam da coletânea da proposta escolhida.
+
+Resposta-ChatBot-colab: Uma redação pode ser anulada nas seguintes situações: 1. Se o candidato abordar outro tema que não o da proposta escolhida; 2. Se o candidato não cumprir as tarefas solicitadas na proposta nem cumprir o gênero discursivo solicitado nela; 3. Se o candidato simplesmente reproduzir os textos da prova (ou partes dos mesmos) em forma de colagem, sejam do enunciado, sejam da coletânea da proposta escolhida.
+
+Resposta-esperada: Uma redação pode ser anulada nas seguintes situações: 
+
+1. Se o candidato abordar outro tema que não o da proposta escolhida; 
+2. Se o candidato não cumprir as tarefas solicitadas na proposta nem cumprir o gênero discursivo solicitado nela; 
+3. Se o candidato simplesmente reproduzir os textos da prova (ou partes dos mesmos) em forma de colagem, sejam do enunciado, sejam da coletânea da proposta escolhida.
+-----------------------------------------------------
+
+Pergunta: Quais será as obras cobradas no VU 2024?
+
+Resposta: Based on the provided context, there is no information about the specific works that will be covered in the VU 2024 entrance exam.
+
+Resposta-ChatBot-colab: The provided context does not mention anything about the specific works that will be covered in the VU 2024 entrance exam. Therefore, I don't have information about the specific works that will be included in the exam.
+
+Resposta-esperada: Seria as obras que estão na tabela de relação de livros
+
+Pergunta: Qual é a relação de livros?
+
+Resposta: ​Não há informações fornecidas sobre a relação de livros no contexto fornecido.
+
+Resposta-ChatBot-colab: A relação de livros mencionados é a seguinte:
+
+- Poesia: Cartola - 10 canções escolhidas
+- Poesia: Olavo Bilac - Tarde (obra completa)
+- Conto: Lygia Fagundes Telles - Seminário dos ratos (conto "Seminários dos ratos")
+- Conto: Conceição Evaristo - Olhos d'água (obra completa)
+- Romance: Lewis Carrol - Alice no país das maravilhas (obra completa)
+- Romance: Raul Pompéia - O Ateneu (obra completa)
+- Romance: Paulina Chiziane - Niketche – uma História de Poligamia (obra completa)
+- Romance: Machado de Assis - Casa Velha (obra completa)
+- Carta/Relato de Viagem: Pero Vaz de Caminha - Carta de Achamento a el-rei D. Manuel (obra completa)
+
+Essas obras podem ser acessadas em diferentes fontes, como obras completas, domínio público ou editoras específicas.
+
+Resposta-esperada: Seria o conteudo da tabela de relação de livros
+
+-----------------------------------------------------
+
+Pergunta: Me de 3 cursos noturnos da area de Ciências Humanas/Artes
+
+Resposta: Sociais (Noturno), Geografia (Noturno), Letras - Licenciatura (Noturno)
+
+Resposta-ChatBot-colab: Administração (Noturno)
+Administração Pública (Noturno)
+Arquitetura e Urbanismo (Noturno)
+
+Resposta-esperada: 
+
+
+-----------------------------------------------------
+
+Modelo:
+Pergunta: 
+
+Resposta: 
+
+Resposta-ChatBot-colab:
+
+Resposta-esperada: 
+
+
