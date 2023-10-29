@@ -35,6 +35,7 @@ def initialize_session_state():
     if "qa_with_source" not in st.session_state:
         #ChatBot-langchain
         # Configura a chave da API da OpenAI usando um segredo do Streamlit.
+        # os.environ["OPENAI_API_KEY"] = "OPENAI_API_KEY"
         os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
         # Carrega documentos HTML da URL fornecida.
         loader = WebBaseLoader("https://www.pg.unicamp.br/norma/31594/0")
