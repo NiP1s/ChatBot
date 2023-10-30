@@ -65,5 +65,9 @@ Também foi visto os sites :
 - [Langchain - chatbot](https://python.langchain.com/docs/use_cases/chatbots/)
 - [Langchain - web_scraping](https://python.langchain.com/docs/use_cases/web_scraping)
 - [Streamlit](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
- 
+
+## Erro de Hospedagem
+Aparentemente, esse erro está ocorrendo porque o Streamlit não está conseguindo carregar as bibliotecas que eu utilizei para o funcionamento do código. Portanto, devido ao erro apresentado na imagem abaixo, só será possível a execução do meu chatbot localmente. Por esse motivo, não há nenhum link para o acesso do mesmo.<br />
+ <img width="533" alt="image" src="https://github.com/NiP1s/ChatBot/assets/124923634/1ef3f41b-2b80-4e12-ad70-e76bb408ec40">
+
  
