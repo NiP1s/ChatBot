@@ -46,6 +46,10 @@ Agora que nosso ambiente foi preparado, após baixar o arquivo Python e a pasta 
  - **langchain.prompts:** Fornece ferramentas para criar e manipular prompts, e a classe PromptTemplate é utilizada para criar modelos de prompts.
  - **langchain.chat_models:** Implementa modelos de chat, com a classe ChatOpenAI sendo utilizada para configurar um modelo de linguagem específico para chat da OpenAI.
 
+## ChatGPT
+
+Temos que o ChatGPT, além da forma citada anteriormente, também foi utilizado para os comentários feitos no código, correção de texto para o readme, para tirar algumas dúvidas com o ambiente virtual criado através do Anaconda e para saber como poderia otimizar o código para a resposta ser mais rápida.
+
 ## Bibliografia
 
 Para o entendimento de RAG, langchain e como utiliza-los com o chatGPT foram vistos os seguintes videos:
